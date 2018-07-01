@@ -1,0 +1,10 @@
+{
+  "name": "Libin",
+  "age": 26,
+  "job": "Software Developer",
+  "degree": {
+    "btech": "TocH",
+    "hss": "St. Ignatius",
+    "hs": "Hail Mary"
+  }
+}
